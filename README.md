@@ -1,31 +1,43 @@
-# Statistics for Data Science and Business Analysis [Video]
-This is the code repository for [Statistics for Data Science and Business Analysis [Video]](https://www.packtpub.com/virtualization-and-cloud/powershell-core-61-linux-video?utm_source=github&utm_medium=repository&utm_campaign=9781838559595), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+# Vim Masterclass [Video]
+This is the code repository for [Vim Masterclass [Video]](https://www.packtpub.com/application-development/cisco-ccna-icnd2-200-105-complete-course-sims-and-gns3-video?utm_source=github&utm_medium=repository&utm_campaign=9781838557652), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
-This course will teach you fundamental skills that will enable you to understand complicated statistical analysis directly applicable to real-life situations. Modern software packages and programming languages are now automating most of these activities, but this course gives you something more valuable—critical thinking abilities. This course will help you understand the fundamentals of statistics, learn how to work with different types of data, calculate correlation and covariance, and more. Careers in the field of data science are some of the most popular in the corporate world today. And, given that most businesses are starting to realize the advantages of working with the data at their disposal, this trend will only continue to grow
+Did you know that most productive command-line experts exploit the powerful features of the Vim text editor?
+The problem is that, if you want to get really good with Vim, it can take you an extremely long time if you're trying to learn it on your own. That's why the Vim Masterclass course was created. This course gives you the absolute shortest path to learning the basics. It's also the fastest way to learn the most advanced features, too.
+By the time you finish Vim Masterclass, you'll know how to:
+•	Work with multiple files, including how to move data back and forth between different files, copying and pasting from one file to another, and quickly jumping to another file. You'll also learn how to view multiple files at the same time using Vim's windowing system.
+•	Use must-know keyboard shortcuts and remember them easily. You'll actually learn how to think in Vim so you don't even have to memorize each and every command, saving you countless hours of work.
+•	Find and replace entire blocks of information within a file. That includes how to refactor your code by renaming all variables in a file, or set of files, reliably. Of course, you'll learn simple find and replace techniques to replace a word in an entire file, and much more.
+•	Visually select blocks of text and edits them—for example, moving a block, deleting a block, indenting/shifting a block, and more. You'll understand Vim's text objects so you can quickly select single or multiple words, lines, paragraphs, HTML/XML tags, code blocks, and more.
+•	Make vertical edits and use Vim's Visual Block mode. (Some people call this column editing mode or rectangle mode…)
+•	Enable syntax highlighting for source code, configuration files, or any type of file you edit often. That includes how to customize the color scheme and color code text in Vim.
+•	Employ simple-to-advanced navigation techniques so you can go to a precise location in a file very rapidly.
+•	Practical application tips such as how to edit source code, scripts, HTML, and more. You'll find lots of opportunities for practice in this course.
+•	Make the most of the built-in help system to quickly find what you need, all without leaving Vim.
+•	Use MacVim and gVim on Linux and Windows. This includes learning the advantages and disadvantages of both the textual interface and graphical Vim interfaces.
+When you start the course, you'll be able to use Vim almost immediately. After that, we'll build on your knowledge and even get into some really advanced techniques such as editing multiple files at once, creating macros, making global substitutions in many files at the same time, ways to format and normalize data, how to think in vim, and much more
 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>Install and run PowerShell Core 6.1 for Linux</SPAN> 
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>Use command syntax and structure to develop powerful scripts </SPAN>
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>Extend PowerShell Core by finding and importing modules and snap-ins </SPAN>
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>Work with PowerShell objects to get properties and methods </SPAN>
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>Use PowerShell functions and develop scripts to automate tasks that are repetitive and time-consuming </SPAN>
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>Manage the enterprise with PowerShell Remoting </SPAN>
-<LI><SPAN id=what_you_will_learn_c class=sugar_field>Use PowerShell AzureCLI to provision and manage cloud virtual machines</SPAN> </LI></UL></DIV>
+<LI><SPAN id=what_you_will_learn_c class=sugar_field>This course will prepare you for the CCNA/ICND2 (200-105) certification exam</SPAN> 
+<LI><SPAN id=what_you_will_learn_c class=sugar_field>This course is for anyone who wants to attain the Cisco CCNA certification</SPAN> 
+<LI><SPAN id=what_you_will_learn_c class=sugar_field>Once you complete this course and pass your CCNA exam, you will be able study toward higher-level Cisco certifications</SPAN> 
+<LI><SPAN id=what_you_will_learn_c class=sugar_field>This course will prepare you for the CCNA 200-125 certification exam; the CCENT/ICND1 100-105 certification exam; and the ICND2 200-105 certification exam.</SPAN> 
+<LI><SPAN id=what_you_will_learn_c class=sugar_field>This course is hands-on! Once you complete the course, you will be able to apply what you have learned to real-world networking scenarios.</SPAN> 
+<LI><SPAN id=what_you_will_learn_c class=sugar_field>Start a career in networking</SPAN> </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-This course targets anyone who wants a career in data science or business intelligence; individuals who are passionate about numbers and quant analysis; anyone who wants to learn the subtleties of statistics and how it is used in the business world; people who want to learn the fundamentals of statistics; business analysts; and business executives.
+Anyone who has to edit files in a command-line environment. System administrators. Developers. Database administrators.
 ### Technical Requirements
 This course has the following software requirements:<br/>
 NA
 
 ## Related Products
-* [Exploratory Data Analysis with Pandas and Python 3.x [Video]](https://www.packtpub.com/virtualization-and-cloud/powershell-core-61-linux-video?utm_source=github&utm_medium=repository&utm_campaign=9781838559595)
+* [Ultimate Java Masterclass](https://www.packtpub.com/application-development/cisco-ccna-icnd2-200-105-complete-course-sims-and-gns3-video?utm_source=github&utm_medium=repository&utm_campaign=9781838557652)
 
-* [Scalable Data Analysis in Python with Dask [Video]](https://www.packtpub.com/virtualization-and-cloud/powershell-core-61-linux-video?utm_source=github&utm_medium=repository&utm_campaign=9781838559595)
+* [Reinforcement Learning with TensorFlow & TRFL [Video]](https://www.packtpub.com/application-development/cisco-ccna-icnd2-200-105-complete-course-sims-and-gns3-video?utm_source=github&utm_medium=repository&utm_campaign=9781838557652)
 
-* [PowerShell Core 6.1 for Linux [Video]](https://www.packtpub.com/virtualization-and-cloud/powershell-core-61-linux-video?utm_source=github&utm_medium=repository&utm_campaign=9781838559595)
+* [Cisco CCNA / ICND2 (200-105) Complete Course: Sims and GNS3 [Video]](https://www.packtpub.com/application-development/cisco-ccna-icnd2-200-105-complete-course-sims-and-gns3-video?utm_source=github&utm_medium=repository&utm_campaign=9781838557652)
 
